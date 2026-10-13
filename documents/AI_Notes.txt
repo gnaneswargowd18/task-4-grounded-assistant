@@ -1,0 +1,39 @@
+Artificial Intelligence
+
+Artificial Intelligence, or AI, is a field of computer science that develops systems capable of performing tasks that normally require human intelligence.
+
+Machine Learning
+
+Machine Learning is a branch of AI that enables computers to learn patterns from data and make predictions.
+
+Deep Learning
+
+Deep Learning is a branch of Machine Learning that uses neural networks with multiple layers to learn complex patterns.
+
+Python
+
+Python is a programming language widely used in AI, Machine Learning, data analysis, and automation.
+
+Natural Language Processing
+
+Natural Language Processing, or NLP, helps computers understand, process, and generate human language.
+
+Retrieval-Augmented Generation
+
+Retrieval-Augmented Generation, or RAG, retrieves relevant information from documents and uses that information to help generate grounded answers.
+
+AI Guardrails
+
+AI guardrails are rules that help an AI assistant avoid unsafe requests and questions outside its intended purpose.
+
+Evaluation
+
+Evaluation measures an AI system's performance using test questions and expected answers.
+
+Tokens
+
+Tokens are pieces of text processed by a language model. Token usage can help estimate the cost of using an AI model.
+
+Embeddings
+
+Embeddings are numerical representations of text that help computers compare semantic meaning and retrieve relevant information.
